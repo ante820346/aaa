@@ -30,7 +30,7 @@
     [self.view addSubview:_d3view];
     
     
-    
+    int e =9;
     
     _exFrame = _d3view.frame;
 }
